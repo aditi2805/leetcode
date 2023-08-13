@@ -1,0 +1,2 @@
+github doesn't allow pushing empty directory.
+Hence we generally create a file package.info inside an empty directory.
